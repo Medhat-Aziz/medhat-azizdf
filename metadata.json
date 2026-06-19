@@ -1,0 +1,10 @@
+{
+  "name": "English Adventure Kids",
+  "description": "An immersive, playful full-stack learning experience for Arabic-speaking children aged 5 to 10 to learn English through games, stories, songs, and a friendly AI chat buddy.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
